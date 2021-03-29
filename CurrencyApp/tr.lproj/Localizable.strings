@@ -1,0 +1,38 @@
+"Base" = "Baz";
+
+
+//Currency Names
+
+"Australian Dollar (AUD)" = "Avustralya Doları (AUD)";
+"Singapore Dollar (SGD)" = "Singapur Doları (SGD)";
+"British Pound (GBP)" = "İngiliz Sterlini (GBP)";
+"Canadian Dollar (CAD)" = "Kanada Doları (CAD)";
+"Croatian Kuna (HRK)" = "Hırvatistan Kunası (HRK)";
+"Indonesian Rupiah (IDR)" = "Endonezya Rupisi (IDR)";
+"Turkish Lira (TRY)" = "Türk Lirası (TRY)";
+"Mexican Peso (MXN)" = "Meksika Pesosu (MXN)";
+"Thai Baht (THB)" = "Tayland Bahtı (THB)";
+"Romanian Leu (RON)" = "Rumen Leyi (RON)";
+"Malaysian Ringgit (MYR)" = "Malezya Ringgiti (MYR)";
+"South African Rand (ZAR)" = "Güney Afrika Randı (ZAR)";
+"Russian Rouble (RUB)" = "Rus Ruplesi (RUB)";
+"Chinese Yuan (CNY)" = "Çin Yuanı (CNY)";
+"Swiss Franc (CHF)" = "İsviçre Frangı (CHF)";
+"Korean Won (KRW)" = "Kore Wonu (KRW)";
+"Norwegian Krone (NOK)" = "Norveç Kronu (NOK)";
+"Hong Kong Dollar (HKD)" = "Hong Kong Doları (HKD)";
+"Bulgarian Lev (BGN)" = "Bulgar Levası (BGN)";
+"New Zealand Dollar (NZD)" = "Yeni Zelanda Doları (NZD)";
+"Philippine Peso (PHP)" = "Filipin Pesosu (PHP)";
+"Indian Rupee (INR)" = "Hint Rupisi (INR)";
+"Hungarian Forint (HUF)" = "Macar Forinti (HUF)";
+"Japanese Yen (JPY)" = "Japon Yeni (JPY)";
+"Swedish Krona (SEK)" = "İsveç Kronu (SEK)";
+"Polish Zloty (PLN)" = "Polonya Zlotisi (PLN)";
+"Czech Koruna (CZK)" = "Çek Korunası (CZK)";
+"Iceland Krona (ISK)" = "İzlanda Kronu (ISK)";
+"U.S. Dollar (USD)" = "Amerikan Doları (USD)";
+"Israeli Shekel (ILS)" = "Yeni İsrail Şekeli (ILS)";
+"Brazilian Real (BRL)" = "Brezilya Real (BRL)";
+"Danish Krone (DKK)" = "Danimarka Kronu (DKK)";
+
